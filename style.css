@@ -1,0 +1,85 @@
+/*Default styles*/
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    min-height: 100vh; /*Min-height of the tag*/
+    background-color: #f4e4ba;
+}
+
+.container {
+    background-color: white;
+    margin: 2rem;
+    padding:2rem;
+    border-radius: 1rem;
+    min-height: 40vh; /* Min-height*/
+    min-width: 50vw; /*Min-width*/
+}
+
+.heading {
+    font-size: 1.3rem;
+}
+
+#converter {
+    margin-top: 1.2rem;
+}
+
+.amount-entry-message {
+    margin-bottom: 0.1rem;
+}
+
+.amount {
+    margin-bottom:1.5rem;
+}
+
+.input-amount-box {
+    border: 1.5px solid lightgray;
+    padding: 7px;
+    border-radius: 0.5rem;
+}
+
+.select-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1.2rem;
+    align-content: start;
+}
+
+
+.from, .to {
+    text-align: center;
+}
+
+.fa-arrow-right-arrow-left{
+    margin-top:1.2rem;
+}
+
+.from-section, .to-section {
+    padding: 0.2rem;
+    display: flex;
+    align-items: center;
+    border: 0.5px solid lightgray;
+    border-radius: 0.7rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+#submit {
+    margin-top: 1.2rem;
+    align-self: end;
+    width: 100%;
+    min-height: 8vh;
+    border-radius: 0.7rem;
+    border: 1px solid lightgray;
+    background-color: #af4d98;
+    color: white;
+    font-size: 1rem;
+    cursor:pointer;
+}

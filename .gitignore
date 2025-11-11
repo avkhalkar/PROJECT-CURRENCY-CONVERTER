@@ -1,0 +1,5 @@
+# Ignore environment variables
+.env
+
+# Contains API key
+config.js
