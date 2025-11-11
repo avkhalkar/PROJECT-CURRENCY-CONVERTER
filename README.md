@@ -54,6 +54,8 @@ npx live-server
 
 (You can add a screenshot later, e.g. screenshot.png)
 
+![Currency Converter Screenshot](screenshot.png)
+
 ---
 
 **📜 License:**
