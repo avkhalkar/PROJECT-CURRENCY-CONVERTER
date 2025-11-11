@@ -80,8 +80,8 @@ For major changes, please open an issue first to discuss what you’d like to mo
 
 **Acknowledgments**
 
-Special thanks to FreeCurrencyAPI for providing accurate and reliable exchange rate data that powers this project.
-
+Special thanks to **FreeCurrencyAPI** for providing accurate and reliable exchange rate data that powers this project.
+And also to **FlagsAPI** for providing images of flags of the nationalities the currencies belonged to 
 
 ---
 
